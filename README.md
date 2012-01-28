@@ -1,8 +1,7 @@
 ImageSelectionExperimentMTurk
 =============================
 
- **Backup** of my Amazon Mechanical Turk depolyment work.
- --------------------------------------------------------
+## **Backup** of my Amazon Mechanical Turk depolyment work.
 
 **Introduction:**
 
